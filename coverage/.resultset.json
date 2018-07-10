@@ -4,8 +4,39 @@
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/helpers/application_helper.rb": [
         1,
         null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/models/student_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/student.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/controllers/students_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1531251231
+    "timestamp": 1531251951
   }
 }
