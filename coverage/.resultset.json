@@ -25,18 +25,18 @@
         null,
         1,
         null,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         null
@@ -172,6 +172,7 @@
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/address.rb": [
         1,
         1,
+        1,
         null
       ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/application_record.rb": [
@@ -186,9 +187,14 @@
         1,
         2,
         null,
+        null,
+        1,
+        2,
+        null,
         null
       ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/student.rb": [
+        1,
         1,
         1,
         null
@@ -215,7 +221,8 @@
         null,
         null,
         1,
-        7,
+        8,
+        8,
         null,
         null,
         1,
@@ -258,9 +265,27 @@
         1,
         1,
         null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
         null
       ]
     },
-    "timestamp": 1531257406
+    "timestamp": 1531258305
   }
 }

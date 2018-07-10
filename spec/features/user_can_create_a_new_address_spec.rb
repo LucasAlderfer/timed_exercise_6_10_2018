@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe 'when visiting /students/:id/addresses/new' do
   context 'as a user' do
-    it 'can create a new student' do
+    it 'can create a new address' do
     student_1 = Student.create!(name:'joe')
     student_2 = Student.create!(name:'bobby')
     student_3 = Student.create!(name:'billy')
