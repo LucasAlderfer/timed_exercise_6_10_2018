@@ -8,7 +8,6 @@ class AddressesController < ApplicationController
   def create
     @student = Student.find(params[:student_id])
     @address = @student.addresses.new(address_params)
-    # require 'pry';binding.pry
     if @address.save
       flash[:success] = "You created address #{@address.description} for #{@student.name}"
       redirect_to student_path(@student)
