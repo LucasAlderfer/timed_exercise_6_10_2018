@@ -5,6 +5,42 @@
         1,
         null
       ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/features/user_can_create_a_new_address_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/features/user_can_create_a_new_student_spec.rb": [
         1,
         null,
@@ -104,6 +140,38 @@
         null,
         null
       ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/features/user_can_see_all_a_students_addresses_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/features/user_can_visit_student_show_page_spec.rb": [
         1,
         null,
@@ -120,6 +188,30 @@
         null,
         null
       ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/models/address_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/address.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/models/student_spec.rb": [
         1,
         null,
@@ -127,14 +219,14 @@
         1,
         2,
         null,
+        null,
+        1,
+        2,
+        null,
         null
       ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/student.rb": [
         1,
-        1,
-        null
-      ],
-      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/models/application_record.rb": [
         1,
         1,
         null
@@ -161,7 +253,8 @@
         null,
         null,
         1,
-        7,
+        9,
+        9,
         null,
         null,
         1,
@@ -196,8 +289,34 @@
         1,
         1,
         null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/controllers/addresses_controller.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1531255516
+    "timestamp": 1531258651
   }
 }

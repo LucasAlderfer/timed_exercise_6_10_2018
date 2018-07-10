@@ -1,0 +1,20 @@
+<%= render partial: "nav_bar" %>
+
+<%= form_for [@student, @address] do |f| %>
+  <p><%= f.label :description %></p>
+  <p><%= f.text_field :description %></p>
+
+  <p><%= f.label :street %></p>
+  <p><%= f.text_field :street %></p>
+
+  <p><%= f.label :city %></p>
+  <p><%= f.text_field :city %></p>
+
+  <p><%= f.label :state %></p>
+  <p><%= f.text_field :state %></p>
+
+  <p><%= f.label :zip_code %></p>
+  <p><%= f.text_field :zip_code %></p>
+
+  <p><%= f.submit "Add Address" %></p>
+<% end %>
