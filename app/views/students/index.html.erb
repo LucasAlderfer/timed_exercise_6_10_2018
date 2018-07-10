@@ -1,3 +1,5 @@
+<%= render partial: "nav_bar" %>
+
 <% @students.each do |student| %>
   <section id=<%="student-#{student.id}"%>>
     <p><%= student.name %></p>
