@@ -5,6 +5,42 @@
         1,
         null
       ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/features/user_can_create_a_new_address_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
       "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/spec/features/user_can_create_a_new_student_spec.rb": [
         1,
         null,
@@ -214,8 +250,17 @@
         1,
         1,
         null
+      ],
+      "/Users/lucasdevelopment/turing/2module/projects/timed-exercise/timed_exercise/app/controllers/addresses_controller.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1531256426
+    "timestamp": 1531257406
   }
 }
